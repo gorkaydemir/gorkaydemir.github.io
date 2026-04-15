@@ -288,6 +288,15 @@ a:hover {
   color: #6b21a8;
 }
 
+.paper-venue.journal {
+  background: #f3e5f5;
+  color: #7b1fa2;
+}
+
+.paper-venue.highlight {
+  font-weight: 700;
+}
+
 .paper-abstract {
   font-size: 13px;
   color: var(--color-text-secondary);
